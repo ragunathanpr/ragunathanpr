@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pranesh
 - 👀 I’m interested in Practical Artifiicial Intelligence
-- 🌱 I’m currently learning Computer Vision
+- 🌱 I’m currently working on Computer Vision Projects
 - 💞️ I’m looking to collaborate on Video Analytics
 - 📫 How to reach me @
 
